@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">GoCulture</string>
+    <string name="app_name">Cultivator</string>
     <string name="title_map">Карта</string>
     <string name="title_rating">Рейтинг</string>
     <string name="title_friends">Друзья</string>
@@ -31,7 +31,7 @@
             <p>Наша цель - привлечь молодую аудиторию в музеи, театры и другие места городской культуры.</p>
             <p>Приложение <strong>GoCulture</strong> призвано помочь показать друзьям, как вы близки к культуре.</p>
             <h3>Разработчики:</h3>
-            <p style="padding-left: 40px;">Алексей Денисов<br />Константин Доронин<br />(Samsung IT Academy)</p>
+            <p style="padding-left: 40px;">Алексей Денисов<br />Елена Старухина<br />Евгений Егоркин</p>
             <h3>Использованные модули:</h3>
             <p style="padding-left: 40px;"><a href="https://github.com/osmdroid/osmdroid">OpenStreetMap - Tools for Android</a><br /><a href="https://firebase.google.com/">Google Firebase</a><br /><a href="https://github.com/google/gson">Gson</a><br /><a href="https://github.com/square/retrofit">Retrofit</a><br /><a href="https://github.com/coil-kt/coil">Coil</a><br /><a href="https://github.com/GetStream/avatarview-android">GetStream AvatarView</a><br /><a href="https://github.com/CanHub/Android-Image-Cropper">Android Image Cropper</a></p>
         ]]>
